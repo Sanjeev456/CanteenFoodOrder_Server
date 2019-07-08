@@ -20,5 +20,13 @@
     "sqlite3": "^4.0.9"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjeev456/CanteenFoodOrder_Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sanjeev456/CanteenFoodOrder_Server/issues"
+  },
+  "homepage": "https://github.com/Sanjeev456/CanteenFoodOrder_Server#readme",
   "description": ""
 }
